@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "573F2165-84E9-473D-AEE4-FE1C38EEA573"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E321885-2B80-4132-89A5-A4D441BC54B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment6UITests/BasicUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "BasicUITests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8E321885-2B80-4132-89A5-A4D441BC54B4 - 40cbb50dd0a3a5f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of Assignment6UITests.BasicUITests.login(Swift.String, Swift.String) -&gt; ()"
+                  moduleName = "Assignment6UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/srmadala/Desktop/CSE118/Assignment6/Assignment6UITests/BasicUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8E321885-2B80-4132-89A5-A4D441BC54B4 - 18634f3de0fb70e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 1 of Assignment6UITests.BasicUITests.login(Swift.String, Swift.String) -&gt; ()"
+                  moduleName = "Assignment6UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/srmadala/Desktop/CSE118/Assignment6/Assignment6UITests/BasicUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8E321885-2B80-4132-89A5-A4D441BC54B4 - f7495179d0b9c49a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment6UITests.BasicUITests.login(Swift.String, Swift.String) -&gt; ()"
+                  moduleName = "Assignment6UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/srmadala/Desktop/CSE118/Assignment6/Assignment6UITests/BasicUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "154">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "825ACF2B-CBCD-4F88-8E2D-26ACA2C5785A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment6UITests/BasicUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "addMessage(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C642188-5260-4CB4-95A0-C33226D60E1C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment6UITests/BasicUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "addMessage(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
