@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1686379761279" clover="3.2.0">
+  <project timestamp="1686379761280" name="All files">
+    <metrics statements="131" coveredstatements="131" conditionals="6" coveredconditionals="6" methods="54" coveredmethods="54" elements="191" coveredelements="191" complexity="0" loc="131" ncloc="131" packages="4" files="12" classes="12"/>
+    <package name="Assignment9">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.js" path="C:\Users\madal\OneDrive\Desktop\CSE 118\Assignment9\App.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="11" type="stmt"/>
+      </file>
+    </package>
+    <package name="Assignment9.src">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="Main.js" path="C:\Users\madal\OneDrive\Desktop\CSE 118\Assignment9\src\Main.js">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="21" type="stmt"/>
+        <line num="21" count="21" type="stmt"/>
+        <line num="29" count="31" type="stmt"/>
+        <line num="33" count="30" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="50" count="21" type="stmt"/>
+        <line num="59" count="14" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="78" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="Assignment9.src.Model">
+      <metrics statements="38" coveredstatements="38" conditionals="4" coveredconditionals="4" methods="15" coveredmethods="15"/>
+      <file name="ViewModel.js" path="C:\Users\madal\OneDrive\Desktop\CSE 118\Assignment9\src\Model\ViewModel.js">
+        <metrics statements="38" coveredstatements="38" conditionals="4" coveredconditionals="4" methods="15" coveredmethods="15"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="116" type="stmt"/>
+        <line num="7" count="116" type="stmt"/>
+        <line num="8" count="116" type="stmt"/>
+        <line num="9" count="116" type="stmt"/>
+        <line num="10" count="116" type="stmt"/>
+        <line num="11" count="116" type="stmt"/>
+        <line num="12" count="116" type="stmt"/>
+        <line num="13" count="116" type="stmt"/>
+        <line num="14" count="116" type="stmt"/>
+        <line num="15" count="116" type="stmt"/>
+        <line num="19" count="116" type="stmt"/>
+        <line num="20" count="12" type="stmt"/>
+        <line num="23" count="12" type="stmt"/>
+        <line num="24" count="554" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="12" type="stmt"/>
+        <line num="28" count="542" type="stmt"/>
+        <line num="32" count="116" type="stmt"/>
+        <line num="33" count="32" type="stmt"/>
+        <line num="35" count="32" type="stmt"/>
+        <line num="45" count="32" type="cond" truecount="2" falsecount="0"/>
+        <line num="46" count="10" type="stmt"/>
+        <line num="52" count="32" type="stmt"/>
+        <line num="56" count="32" type="stmt"/>
+        <line num="60" count="116" type="stmt"/>
+        <line num="62" count="10" type="stmt"/>
+        <line num="71" count="10" type="stmt"/>
+        <line num="74" count="10" type="stmt"/>
+        <line num="122" count="116" type="stmt"/>
+        <line num="125" count="7" type="stmt"/>
+        <line num="137" count="7" type="stmt"/>
+        <line num="140" count="7" type="stmt"/>
+        <line num="144" count="116" type="stmt"/>
+        <line num="145" count="5" type="stmt"/>
+        <line num="160" count="5" type="stmt"/>
+        <line num="164" count="5" type="stmt"/>
+        <line num="168" count="116" type="stmt"/>
+      </file>
+    </package>
+    <package name="Assignment9.src.UI">
+      <metrics statements="79" coveredstatements="79" conditionals="2" coveredconditionals="2" methods="30" coveredmethods="30"/>
+      <file name="Channels.js" path="C:\Users\madal\OneDrive\Desktop\CSE 118\Assignment9\src\UI\Channels.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="25" type="stmt"/>
+        <line num="21" count="25" type="stmt"/>
+        <line num="22" count="7" type="stmt"/>
+        <line num="25" count="25" type="stmt"/>
+        <line num="31" count="42" type="stmt"/>
+        <line num="33" count="42" type="stmt"/>
+      </file>
+      <file name="ChannelsCard.js" path="C:\Users\madal\OneDrive\Desktop\CSE 118\Assignment9\src\UI\ChannelsCard.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="42" type="stmt"/>
+        <line num="42" count="42" type="stmt"/>
+        <line num="45" count="5" type="stmt"/>
+        <line num="49" count="5" type="stmt"/>
+      </file>
+      <file name="Login.js" path="C:\Users\madal\OneDrive\Desktop\CSE 118\Assignment9\src\UI\Login.js">
+        <metrics statements="16" coveredstatements="16" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="118" type="stmt"/>
+        <line num="31" count="118" type="stmt"/>
+        <line num="32" count="118" type="stmt"/>
+        <line num="33" count="118" type="stmt"/>
+        <line num="35" count="118" type="stmt"/>
+        <line num="37" count="11" type="stmt"/>
+        <line num="38" count="11" type="stmt"/>
+        <line num="50" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="51" count="10" type="stmt"/>
+        <line num="58" count="11" type="stmt"/>
+        <line num="62" count="11" type="stmt"/>
+        <line num="63" count="11" type="stmt"/>
+        <line num="64" count="11" type="stmt"/>
+        <line num="68" count="118" type="stmt"/>
+      </file>
+      <file name="MessageCard.js" path="C:\Users\madal\OneDrive\Desktop\CSE 118\Assignment9\src\UI\MessageCard.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+      </file>
+      <file name="Messages.js" path="C:\Users\madal\OneDrive\Desktop\CSE 118\Assignment9\src\UI\Messages.js">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="11" type="stmt"/>
+        <line num="16" count="11" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="20" count="13" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="33" count="11" type="stmt"/>
+        <line num="39" count="12" type="stmt"/>
+        <line num="41" count="12" type="stmt"/>
+      </file>
+      <file name="MessagesCard.js" path="C:\Users\madal\OneDrive\Desktop\CSE 118\Assignment9\src\UI\MessagesCard.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="12" type="stmt"/>
+        <line num="31" count="12" type="stmt"/>
+        <line num="32" count="12" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="12" type="stmt"/>
+        <line num="37" count="12" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+      </file>
+      <file name="NewMessage.js" path="C:\Users\madal\OneDrive\Desktop\CSE 118\Assignment9\src\UI\NewMessage.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="4" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+      </file>
+      <file name="WorkspaceCard.js" path="C:\Users\madal\OneDrive\Desktop\CSE 118\Assignment9\src\UI\WorkspaceCard.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="132" type="stmt"/>
+        <line num="30" count="132" type="stmt"/>
+        <line num="33" count="7" type="stmt"/>
+        <line num="34" count="7" type="stmt"/>
+      </file>
+      <file name="Workspaces.js" path="C:\Users\madal\OneDrive\Desktop\CSE 118\Assignment9\src\UI\Workspaces.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="29" count="54" type="stmt"/>
+        <line num="30" count="54" type="stmt"/>
+        <line num="31" count="10" type="stmt"/>
+        <line num="48" count="54" type="stmt"/>
+        <line num="54" count="132" type="stmt"/>
+        <line num="56" count="132" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
