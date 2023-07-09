@@ -1,0 +1,276 @@
+04-27 23:54:57.851 16327 16353 I TestRunner: started: login_error(edu.ucsc.cse118.assignment3.BasicTest)
+04-27 23:54:57.857   933   999 D EGL_emulation: app_time_stats: avg=1270.75ms min=245.11ms max=2296.39ms count=2
+04-27 23:54:57.864 16327 16353 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+04-27 23:54:57.873   933   996 D SplashScreenView: Build android.window.SplashScreenView{948e24d V.E...... ......ID 0,0-0,0}
+04-27 23:54:57.873   933   996 D SplashScreenView: Icon: view: null drawable: null size: 0
+04-27 23:54:57.873   933   996 D SplashScreenView: Branding: view: android.view.View{d8a0102 G.ED..... ......I. 0,0-0,0 #10204a9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+04-27 23:54:57.886   593   633 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment3.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +144ms
+04-27 23:54:57.892   593  1078 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.892   593  1078 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.892   593  1078 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.892   593  1078 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.892   593  1078 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.892   593  1078 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.899   593  1078 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.899   593  1078 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.899   593  1078 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.899   593  1078 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.899   593  1078 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.899   593  1078 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.900   593  1078 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.900   593  1078 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.900   593  1078 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.900   593  1078 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.900   593  1078 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.900   593  1078 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.901   593  1078 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.901   593  1078 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:57.912 16327 16327 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@13c8073 in: PRE_ON_CREATE
+04-27 23:54:57.912 16327 16327 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+04-27 23:54:57.916   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f26b2000 0x3f3056000]
+04-27 23:54:57.919   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f09a4000]
+04-27 23:54:57.921   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f09a4000 0x3f1348000]
+04-27 23:54:57.934   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3e9bce000 0x3ea1fa000]
+04-27 23:54:57.935 16327 16327 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@13c8073 in: CREATED
+04-27 23:54:57.935 16327 16327 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@13c8073
+04-27 23:54:57.949   593  2508 W InputManager-JNI: Input channel object '153774 Splash Screen edu.ucsc.cse118.assignment3.test (client)' was disposed without first being removed with the input manager!
+04-27 23:54:57.950 16327 16327 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@13c8073 in: STARTED
+04-27 23:54:57.950 16327 16327 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@13c8073
+04-27 23:54:57.951 16327 16327 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@13c8073 in: RESUMED
+04-27 23:54:57.951 16327 16327 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@13c8073
+04-27 23:54:57.969   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3ec000000 0x3ec9a4000]
+04-27 23:54:57.974   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f1348000 0x3f1cec000]
+04-27 23:54:57.975   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f72e8000 0x3f7c8c000]
+04-27 23:54:57.995   593   633 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment3/.MainActivity: +123ms
+04-27 23:54:58.000  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3316
+04-27 23:54:58.002  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2181 checkRepeatedly = false, unlocked = true
+04-27 23:54:58.002   593  1724 W InputManager-JNI: Input channel object '2c2b127 Splash Screen edu.ucsc.cse118.assignment3 (client)' was disposed without first being removed with the input manager!
+04-27 23:54:58.002  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1989
+04-27 23:54:58.005  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2181 checkRepeatedly = true, unlocked = true
+04-27 23:54:58.009   593  1078 W InputManager-JNI: Input channel object '1f64a55 edu.ucsc.cse118.assignment3.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+04-27 23:54:58.045 16327 16327 I ViewInteraction: Performing 'type text(srmadala@ucsc.edu)' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and ((view.getId() is <2131230902/edu.ucsc.cse118.assignment3:id/email> and is assignable from class <class android.widget.EditText>) or (is descendant of a view matching view.getId() is <2131230902/edu.ucsc.cse118.assignment3:id/email> and is assignable from class <class android.widget.EditText>)))
+04-27 23:54:58.047  1263  1263 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=852.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=125429095, downTime=125429095, deviceId=-1, source=0x1002, displayId=0, eventId=-627802312 }
+04-27 23:54:58.088  1263  1263 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=852.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=125429137, downTime=125429095, deviceId=-1, source=0x1002, displayId=0, eventId=-244032385 }
+04-27 23:54:58.093  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3316
+04-27 23:54:58.093 16327 16327 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{a544247 VFED..CL. .F.P..ID 196,501-884,625 #7f0800b6 app:id/email aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+04-27 23:54:58.094  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2181 checkRepeatedly = false, unlocked = true
+04-27 23:54:58.094  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1989
+04-27 23:54:58.095  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2181 checkRepeatedly = true, unlocked = true
+04-27 23:54:58.097  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():2098
+04-27 23:54:58.098  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2181 checkRepeatedly = true, unlocked = true
+04-27 23:54:58.099  1626  2017 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():105 Get device mode phone by ui mode:1 and smallestScreenWidthDp:392
+04-27 23:54:58.101  1626  1626 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():168 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+04-27 23:54:58.101  1626  1626 I AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = inputType=Email imeActionName=NEXT dump=[inputType=0x21 imeOptions=0x8000005 privateImeOptions=null actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=Email label=null packageName=edu.ucsc.cse118.assignment3 autofillId=1073741824 fieldId=2131230902 fieldName=null extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=8, android.support.text.emoji.emojiCompat_replaceAll=false}] hintLocales=null contentMimeTypes=null ], IncognitoMode = false, DeviceLocked = false
+04-27 23:54:58.101  1626  1626 I Delight5Facilitator: Delight5Facilitator.initializeForIme():768 initializeForIme() : Locale = [en_US], layout = qwerty
+04-27 23:54:58.102  1626  1626 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():55 cancelShutdown()
+04-27 23:54:58.102  1626  1626 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():67 syncLanguagePacks()
+04-27 23:54:58.103  1626  1626 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1275 inline flag updated to:false
+04-27 23:54:58.110  1626  1626 I KeyboardWrapper: KeyboardWrapper.consumeEvent():284 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+04-27 23:54:58.111  1626 18281 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():184 maybeScheduleAutoPackDownloadForFallback()
+04-27 23:54:58.111  1626 18281 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():196 maybeScheduleAutoPackDownload() for language tag en-US
+04-27 23:54:58.115 16327 16327 I AssistStructure: Flattened final assist data: 1860 bytes, containing 1 windows, 12 views
+04-27 23:54:58.115   933   999 D EGL_emulation: app_time_stats: avg=390.09ms min=32.84ms max=938.36ms count=3
+04-27 23:54:58.116  1626  1626 I KeyboardViewHelper: KeyboardViewHelper.getView():166 Get view with height ratio:1.000000
+04-27 23:54:58.127  1626  1626 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():53 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+04-27 23:54:58.128  1626  1626 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():105 Get device mode phone by ui mode:1 and smallestScreenWidthDp:392
+04-27 23:54:58.129  1626  1626 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():110 currentPrimeKeyboardType:SOFT systemPaddingBottom:0
+04-27 23:54:58.130  1626  1626 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():53 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+04-27 23:54:58.130  1626  2706 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():432 setKeyboardLayout()
+04-27 23:54:58.133  1626  1626 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():110 currentPrimeKeyboardType:SOFT systemPaddingBottom:0
+04-27 23:54:58.133  1626  1626 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():110 currentPrimeKeyboardType:SOFT systemPaddingBottom:0
+04-27 23:54:58.137  1626  1626 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$3.display():213 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE_WITH_SUPPRESSION
+04-27 23:54:58.139  1626  1626 I CurrentMicStatusHolder: CurrentMicStatusHolder.onStartInputView():79 Current Mic status = {MicIconHidden-EmailInputType,}
+04-27 23:54:58.139  1626  1626 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():364 No private IME option set to start voice input.
+04-27 23:54:58.143 16327 16327 D InsetsController: show(ime(), fromIme=true)
+04-27 23:54:58.151  1626  1626 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():110 currentPrimeKeyboardType:SOFT systemPaddingBottom:0
+04-27 23:54:58.153  1626  2706 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():432 setKeyboardLayout()
+04-27 23:54:58.155 10259 10259 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+04-27 23:54:58.155 10259 10259 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+04-27 23:54:58.157 10259 10259 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+04-27 23:54:58.165  1335  1335 W svc     : Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+04-27 23:54:58.173  1626  1780 D EGL_emulation: app_time_stats: avg=297.93ms min=10.48ms max=1232.26ms count=7
+04-27 23:54:58.180  1650  1650 V InlineSuggestionRenderService: handleDestroySuggestionViews called for 0:662549312
+04-27 23:54:58.182 10259 10259 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+04-27 23:54:58.182 10259 10259 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+04-27 23:54:58.187  1335  2945 I .gms.persisten: oneway function results for code 1 on binder at 0x7a343e654e10 will be dropped but finished with status UNKNOWN_TRANSACTION and reply parcel size 80
+04-27 23:54:58.188 10259 10259 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+04-27 23:54:58.314  1626  1626 W SpellCheckerExtension: SpellCheckerExtension.consumeEvent():156 SPELL_CHECK_SUGGESTIONS received with bad key data.
+04-27 23:54:58.314  1626  1626 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+04-27 23:54:58.351 16327 16327 D UiControllerImpl: Injecting string: "srmadala@ucsc.edu"
+04-27 23:54:58.388  1626  1626 W InputContextProxy: InputContextProxy.applyClientDiffInternal():919 Ignore [FetchSuggestions] diff due to stale request: 6591<6594, inputStateId=6435, lastInputStateId=6437
+04-27 23:54:58.393  1626  1626 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority com.google.android.apps.inputmethod.latin.keyboard.widget.LatinFixedCountCandidatesHolderView{1d1990a I.E...... ......ID 99,0-969,121 #7f0b13a4 app:id/softkey_holder_fixed_candidates} to show itself, PREEMPTIVE
+04-27 23:54:58.403  1626  1626 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority com.google.android.apps.inputmethod.latin.keyboard.widget.LatinFixedCountCandidatesHolderView{1d1990a I.E...... ......ID 99,0-969,121 #7f0b13a4 app:id/softkey_holder_fixed_candidates} to show itself, PREEMPTIVE
+04-27 23:54:58.441  1626  1626 W InputContextProxy: InputContextProxy.applyClientDiffInternal():919 Ignore [FetchSuggestions] diff due to stale request: 6598<6600, inputStateId=6442, lastInputStateId=6443
+04-27 23:54:58.470  1626  1626 W InputContextProxy: InputContextProxy.applyClientDiffInternal():919 Ignore [FetchSuggestions] diff due to stale request: 6600<6602, inputStateId=6444, lastInputStateId=6445
+04-27 23:54:58.492  1626  1626 W InputContextProxy: InputContextProxy.applyClientDiffInternal():919 Ignore [FetchSuggestions] diff due to stale request: 6602<6604, inputStateId=6446, lastInputStateId=6447
+04-27 23:54:58.530  1626  1626 W InputContextProxy: InputContextProxy.applyClientDiffInternal():919 Ignore [FetchSuggestions] diff due to stale request: 6604<6605, inputStateId=6448, lastInputStateId=6449
+04-27 23:54:58.551  1626  1626 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority com.google.android.apps.inputmethod.latin.keyboard.widget.LatinFixedCountCandidatesHolderView{1d1990a I.E...... ......ID 99,0-969,121 #7f0b13a4 app:id/softkey_holder_fixed_candidates} to show itself, PREEMPTIVE
+04-27 23:54:58.584  1626  1626 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority com.google.android.apps.inputmethod.latin.keyboard.widget.LatinFixedCountCandidatesHolderView{1d1990a I.E...... ......ID 99,0-969,121 #7f0b13a4 app:id/softkey_holder_fixed_candidates} to show itself, PREEMPTIVE
+04-27 23:54:58.639  1626  1626 W InputContextProxy: InputContextProxy.applyClientDiffInternal():919 Ignore [FetchSuggestions] diff due to stale request: 6613<6616, inputStateId=6456, lastInputStateId=6458
+04-27 23:54:58.803 16327 16327 I ViewInteraction: Performing 'type text(wrong)' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and ((view.getId() is <2131231064/edu.ucsc.cse118.assignment3:id/password> and is assignable from class <class android.widget.EditText>) or (is descendant of a view matching view.getId() is <2131231064/edu.ucsc.cse118.assignment3:id/password> and is assignable from class <class android.widget.EditText>)))
+04-27 23:54:58.805  1263  1263 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=998.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=125429853, downTime=125429853, deviceId=-1, source=0x1002, displayId=0, eventId=-432194981 }
+04-27 23:54:58.848  1263  1263 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=998.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=125429896, downTime=125429853, deviceId=-1, source=0x1002, displayId=0, eventId=-250492276 }
+04-27 23:54:58.850  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():2344
+04-27 23:54:58.850 16327 16327 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{bfc0a74 VFED..CL. .F.P..ID 196,647-884,771 #7f080158 app:id/password aid=1073741825} flags=0 reason=SHOW_SOFT_INPUT
+04-27 23:54:58.853  1626  1626 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+04-27 23:54:58.855  1626  1626 I InputBundle: InputBundle.consumeEvent():910 Skip consuming an event as keyboard status is 0
+04-27 23:54:58.855  1626  1626 I KeyboardWrapper: KeyboardWrapper.consumeEvent():284 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+04-27 23:54:58.855  1626  1626 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():77 shutdown()
+04-27 23:54:58.856  1626  1626 I AndroidIME: AbstractIme.onDeactivate():207 LatinIme.onDeactivate()
+04-27 23:54:58.857  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3316
+04-27 23:54:58.858  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2181 checkRepeatedly = false, unlocked = true
+04-27 23:54:58.859  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1989
+04-27 23:54:58.859  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2181 checkRepeatedly = true, unlocked = true
+04-27 23:54:58.860  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():2098
+04-27 23:54:58.860  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2181 checkRepeatedly = true, unlocked = true
+04-27 23:54:58.865  1626  2017 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():105 Get device mode phone by ui mode:1 and smallestScreenWidthDp:392
+04-27 23:54:58.880  1626  1626 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():168 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+04-27 23:54:58.881  1626  1626 I AndroidIME: AbstractIme.onActivate():86 PasswordIme.onActivate() : EditorInfo = inputType=Password imeActionName=DONE dump=[inputType=0x81 imeOptions=0x4000006 privateImeOptions=null actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=Password label=null packageName=edu.ucsc.cse118.assignment3 autofillId=1073741825 fieldId=2131231064 fieldName=null extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=8, android.support.text.emoji.emojiCompat_replaceAll=false}] hintLocales=null contentMimeTypes=null ], IncognitoMode = false, DeviceLocked = false
+04-27 23:54:58.883  1626  1626 I KeyboardViewHelper: KeyboardViewHelper.getView():166 Get view with height ratio:1.000000
+04-27 23:54:58.887  1626  1626 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():53 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+04-27 23:54:58.888  1626  1626 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():53 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+04-27 23:54:58.888  1626  1626 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():110 currentPrimeKeyboardType:SOFT systemPaddingBottom:0
+04-27 23:54:58.889  1626  1626 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():110 currentPrimeKeyboardType:SOFT systemPaddingBottom:0
+04-27 23:54:58.891  1626  1626 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$3.display():213 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE_WITH_SUPPRESSION
+04-27 23:54:58.893  1626  1626 I CurrentMicStatusHolder: CurrentMicStatusHolder.onStartInputView():79 Current Mic status = {MicIconHidden-SettingOff,MicIconHidden-PasswordOrNumberOrDateInputType,}
+04-27 23:54:58.894  1626  1626 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():364 No private IME option set to start voice input.
+04-27 23:54:58.898 16327 16327 D InsetsController: show(ime(), fromIme=true)
+04-27 23:54:58.908 10259 10259 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+04-27 23:54:58.908 10259 10259 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+04-27 23:54:58.915 10259 10259 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+04-27 23:54:58.918 10259 10259 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+04-27 23:54:58.918 10259 10259 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+04-27 23:54:58.920 10259 10259 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+04-27 23:54:59.094 16327 16327 D UiControllerImpl: Injecting string: "wrong"
+04-27 23:54:59.112 16327 16361 D EGL_emulation: app_time_stats: avg=36.08ms min=10.55ms max=233.86ms count=31
+04-27 23:54:59.114  1626  1626 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority android.widget.LinearLayout{49ea8ad I.E...... .......D 0,0-1080,121 #7f0b0374 app:id/key_pos_password_header_numbers} to show itself, DEFAULT
+04-27 23:54:59.134  1626  1626 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority android.widget.LinearLayout{49ea8ad I.E...... .......D 0,0-1080,121 #7f0b0374 app:id/key_pos_password_header_numbers} to show itself, DEFAULT
+04-27 23:54:59.148  1626  1626 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority android.widget.LinearLayout{49ea8ad I.E...... .......D 0,0-1080,121 #7f0b0374 app:id/key_pos_password_header_numbers} to show itself, DEFAULT
+04-27 23:54:59.182  1626  1626 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority android.widget.LinearLayout{49ea8ad I.E...... .......D 0,0-1080,121 #7f0b0374 app:id/key_pos_password_header_numbers} to show itself, DEFAULT
+04-27 23:54:59.201  1626  1626 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority android.widget.LinearLayout{49ea8ad I.E...... .......D 0,0-1080,121 #7f0b0374 app:id/key_pos_password_header_numbers} to show itself, DEFAULT
+04-27 23:54:59.205 16327 16327 I ViewInteraction: Performing 'single click' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "LOGIN" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "LOGIN"))))
+04-27 23:54:59.207  1263  1263 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=1148.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=125430255, downTime=125430255, deviceId=-1, source=0x1002, displayId=0, eventId=-638583054 }
+04-27 23:54:59.248  1263  1263 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=1148.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=125430295, downTime=125430255, deviceId=-1, source=0x1002, displayId=0, eventId=-1045109761 }
+04-27 23:54:59.263   375   460 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:388 failure: Result::NOT_SUPPORTED
+04-27 23:54:59.282 16327 16327 D CompatibilityChangeReporter: Compat change id reported: 147798919; UID 10151; state: ENABLED
+04-27 23:54:59.288   933   933 W ziparchive: Unable to open '/data/app/~~ybsQyg8mt-TFGxkkwt_xDA==/edu.ucsc.cse118.assignment3-mGHDfT7p1jONlxoTGblhbQ==/base.apk': No such file or directory
+04-27 23:54:59.288   933   933 E ndroid.systemu: Failed to open APK '/data/app/~~ybsQyg8mt-TFGxkkwt_xDA==/edu.ucsc.cse118.assignment3-mGHDfT7p1jONlxoTGblhbQ==/base.apk': I/O error
+04-27 23:54:59.288   933   933 W ResourcesManager: failed to preload asset path '/data/app/~~ybsQyg8mt-TFGxkkwt_xDA==/edu.ucsc.cse118.assignment3-mGHDfT7p1jONlxoTGblhbQ==/base.apk'
+04-27 23:54:59.288   933   933 W ResourcesManager: java.io.IOException: Failed to load asset path /data/app/~~ybsQyg8mt-TFGxkkwt_xDA==/edu.ucsc.cse118.assignment3-mGHDfT7p1jONlxoTGblhbQ==/base.apk
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.content.res.ApkAssets.nativeLoad(Native Method)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.content.res.ApkAssets.<init>(ApkAssets.java:295)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.content.res.ApkAssets.loadFromPath(ApkAssets.java:144)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.app.ResourcesManager.loadApkAssets(ResourcesManager.java:454)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.app.ResourcesManager.access$000(ResourcesManager.java:72)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.app.ResourcesManager$ApkAssetsSupplier.load(ResourcesManager.java:168)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.app.ResourcesManager.createApkAssetsSupplierNotLocked(ResourcesManager.java:980)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.app.ResourcesManager.getResources(ResourcesManager.java:1101)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.app.ActivityThread.getTopLevelResources(ActivityThread.java:2415)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.app.ApplicationPackageManager.getResourcesForApplication(ApplicationPackageManager.java:1751)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.app.ApplicationPackageManager.getResourcesForApplication(ApplicationPackageManager.java:1737)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.app.ApplicationPackageManager.getDrawable(ApplicationPackageManager.java:1506)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.app.ApplicationPackageManager.loadUnbadgedItemIcon(ApplicationPackageManager.java:3029)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.content.pm.PackageItemInfo.loadUnbadgedIcon(PackageItemInfo.java:290)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at com.android.systemui.toast.SystemUIToast.getBadgedIcon(SystemUIToast.java:286)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at com.android.systemui.toast.SystemUIToast.inflateToastView(SystemUIToast.java:198)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at com.android.systemui.toast.SystemUIToast.<init>(SystemUIToast.java:90)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at com.android.systemui.toast.SystemUIToast.<init>(SystemUIToast.java:77)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at com.android.systemui.toast.ToastFactory.createToast(ToastFactory.java:78)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at com.android.systemui.toast.ToastUI.lambda$showToast$0(ToastUI.java:113)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at com.android.systemui.toast.ToastUI.$r8$lambda$w_gPCh3F8Xxn1jN4lkQZoUci71c(Unknown Source:0)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at com.android.systemui.toast.ToastUI$$ExternalSyntheticLambda0.run(Unknown Source:16)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at com.android.systemui.toast.ToastUI.showToast(ToastUI.java:140)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at com.android.systemui.statusbar.CommandQueue$H.handleMessage(CommandQueue.java:1451)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.os.Looper.loopOnce(Looper.java:201)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.os.Looper.loop(Looper.java:288)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at android.app.ActivityThread.main(ActivityThread.java:7870)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at java.lang.reflect.Method.invoke(Native Method)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+04-27 23:54:59.288   933   933 W ResourcesManager: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+04-27 23:54:59.289   933   933 W ziparchive: Unable to open '/data/app/~~ybsQyg8mt-TFGxkkwt_xDA==/edu.ucsc.cse118.assignment3-mGHDfT7p1jONlxoTGblhbQ==/base.apk': No such file or directory
+04-27 23:54:59.289   933   933 E ndroid.systemu: Failed to open APK '/data/app/~~ybsQyg8mt-TFGxkkwt_xDA==/edu.ucsc.cse118.assignment3-mGHDfT7p1jONlxoTGblhbQ==/base.apk': I/O error
+04-27 23:54:59.290   933   933 E ResourcesManager: failed to add asset path '/data/app/~~ybsQyg8mt-TFGxkkwt_xDA==/edu.ucsc.cse118.assignment3-mGHDfT7p1jONlxoTGblhbQ==/base.apk'
+04-27 23:54:59.290   933   933 E ResourcesManager: java.io.IOException: Failed to load asset path /data/app/~~ybsQyg8mt-TFGxkkwt_xDA==/edu.ucsc.cse118.assignment3-mGHDfT7p1jONlxoTGblhbQ==/base.apk
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.content.res.ApkAssets.nativeLoad(Native Method)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.content.res.ApkAssets.<init>(ApkAssets.java:295)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.content.res.ApkAssets.loadFromPath(ApkAssets.java:144)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.app.ResourcesManager.loadApkAssets(ResourcesManager.java:454)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.app.ResourcesManager.access$000(ResourcesManager.java:72)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.app.ResourcesManager$ApkAssetsSupplier.load(ResourcesManager.java:168)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.app.ResourcesManager.createAssetManager(ResourcesManager.java:530)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.app.ResourcesManager.createResourcesImpl(ResourcesManager.java:612)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.app.ResourcesManager.findOrCreateResourcesImplForKeyLocked(ResourcesManager.java:664)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.app.ResourcesManager.createResources(ResourcesManager.java:1011)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.app.ResourcesManager.getResources(ResourcesManager.java:1114)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.app.ActivityThread.getTopLevelResources(ActivityThread.java:2415)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.app.ApplicationPackageManager.getResourcesForApplication(ApplicationPackageManager.java:1751)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.app.ApplicationPackageManager.getResourcesForApplication(ApplicationPackageManager.java:1737)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.app.ApplicationPackageManager.getDrawable(ApplicationPackageManager.java:1506)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.app.ApplicationPackageManager.loadUnbadgedItemIcon(ApplicationPackageManager.java:3029)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.content.pm.PackageItemInfo.loadUnbadgedIcon(PackageItemInfo.java:290)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at com.android.systemui.toast.SystemUIToast.getBadgedIcon(SystemUIToast.java:286)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at com.android.systemui.toast.SystemUIToast.inflateToastView(SystemUIToast.java:198)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at com.android.systemui.toast.SystemUIToast.<init>(SystemUIToast.java:90)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at com.android.systemui.toast.SystemUIToast.<init>(SystemUIToast.java:77)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at com.android.systemui.toast.ToastFactory.createToast(ToastFactory.java:78)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at com.android.systemui.toast.ToastUI.lambda$showToast$0(ToastUI.java:113)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at com.android.systemui.toast.ToastUI.$r8$lambda$w_gPCh3F8Xxn1jN4lkQZoUci71c(Unknown Source:0)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at com.android.systemui.toast.ToastUI$$ExternalSyntheticLambda0.run(Unknown Source:16)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at com.android.systemui.toast.ToastUI.showToast(ToastUI.java:140)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at com.android.systemui.statusbar.CommandQueue$H.handleMessage(CommandQueue.java:1451)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.os.Looper.loopOnce(Looper.java:201)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.os.Looper.loop(Looper.java:288)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at android.app.ActivityThread.main(ActivityThread.java:7870)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at java.lang.reflect.Method.invoke(Native Method)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+04-27 23:54:59.290   933   933 E ResourcesManager: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+04-27 23:54:59.290   933   933 W PackageManager: Failure retrieving resources for edu.ucsc.cse118.assignment3
+04-27 23:54:59.327   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3ebdd3000 0x3ebe3d000]
+04-27 23:54:59.338   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3ebe3d000 0x3ebea7000]
+04-27 23:54:59.340   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3ebea7000 0x3ebf11000]
+04-27 23:54:59.436   375   460 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:388 failure: Result::NOT_SUPPORTED
+04-27 23:54:59.516 16327 16327 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Failed to login : HTTP 401" in the root view' action on view view.getRootView() to equal view
+04-27 23:54:59.533   933   996 D SplashScreenView: Build android.window.SplashScreenView{4bfc64f V.E...... ......ID 0,0-0,0}
+04-27 23:54:59.533   933   996 D SplashScreenView: Icon: view: null drawable: null size: 0
+04-27 23:54:59.533   933   996 D SplashScreenView: Branding: view: android.view.View{42db1dc G.ED..... ......I. 0,0-0,0 #10204a9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+04-27 23:54:59.534 16327 16327 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@13c8073 in: PAUSED
+04-27 23:54:59.535 16327 16327 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@13c8073
+04-27 23:54:59.540   593  2514 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.540   593  2514 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.540   593  2514 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.540   593  2514 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.540   593  2514 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.542   593  2514 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.543   593  2514 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.543   593  2514 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.544   593  2514 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.545   593  2514 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.546   593  2514 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.549   593  2514 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.549   593  2514 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.549   593  2514 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.549   593  2514 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.549   593  2514 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.549   593  2514 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.549   593  2514 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.550   593  2514 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.550   593  2514 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.551   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3e922a000 0x3e9b3f000]
+04-27 23:54:59.569   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3ecfd0000 0x3ed974000]
+04-27 23:54:59.572   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3ee5cc000 0x3eef70000]
+04-27 23:54:59.574   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f26b2000 0x3f3056000]
+04-27 23:54:59.587   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f1cec000 0x3f2318000]
+04-27 23:54:59.620   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f3056000 0x3f39fa000]
+04-27 23:54:59.624   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f09a4000]
+04-27 23:54:59.626   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f09a4000 0x3f1348000]
+04-27 23:54:59.637 16327 16327 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@13c8073 in: STOPPED
+04-27 23:54:59.638 16327 16327 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@13c8073
+04-27 23:54:59.644 16327 16327 D AutofillManager: onActivityFinishing(): calling cancelLocked()
+04-27 23:54:59.650   933   999 D EGL_emulation: app_time_stats: avg=896.00ms min=177.70ms max=1614.29ms count=2
+04-27 23:54:59.676   593   633 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment3.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +147ms
+04-27 23:54:59.678   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3ee5cc000 0x3eebf8000]
+04-27 23:54:59.685 16327 16327 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@13c8073 in: DESTROYED
+04-27 23:54:59.685 16327 16327 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+04-27 23:54:59.686 16327 16353 I TestRunner: finished: login_error(edu.ucsc.cse118.assignment3.BasicTest)

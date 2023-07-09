@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="edu.ucsc.cse118.assignment3.BasicTest" tests="18" failures="0" errors="0" skipped="0" time="28.997" timestamp="2023-04-28T06:55:05" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_5_API_32(AVD) - 12" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="login_button_enabled" classname="edu.ucsc.cse118.assignment3.BasicTest" time="2.5" />
+  <testcase name="login_email_hint" classname="edu.ucsc.cse118.assignment3.BasicTest" time="0.439" />
+  <testcase name="login_button" classname="edu.ucsc.cse118.assignment3.BasicTest" time="0.387" />
+  <testcase name="name_in_header" classname="edu.ucsc.cse118.assignment3.BasicTest" time="2.106" />
+  <testcase name="workspace_movies" classname="edu.ucsc.cse118.assignment3.BasicTest" time="1.842" />
+  <testcase name="workspace_construction" classname="edu.ucsc.cse118.assignment3.BasicTest" time="1.843" />
+  <testcase name="movies_channel_count" classname="edu.ucsc.cse118.assignment3.BasicTest" time="2.052" />
+  <testcase name="movies_channel_drama" classname="edu.ucsc.cse118.assignment3.BasicTest" time="2.187" />
+  <testcase name="construction_channel_framing" classname="edu.ucsc.cse118.assignment3.BasicTest" time="2.284" />
+  <testcase name="construction_channel_framing_message_ranice" classname="edu.ucsc.cse118.assignment3.BasicTest" time="2.556" />
+  <testcase name="login_short_email" classname="edu.ucsc.cse118.assignment3.BasicTest" time="1.132" />
+  <testcase name="login_button_disabled" classname="edu.ucsc.cse118.assignment3.BasicTest" time="0.412" />
+  <testcase name="login_short_password" classname="edu.ucsc.cse118.assignment3.BasicTest" time="1.422" />
+  <testcase name="construction_channel_framing_message_ranice_date" classname="edu.ucsc.cse118.assignment3.BasicTest" time="2.513" />
+  <testcase name="login_error" classname="edu.ucsc.cse118.assignment3.BasicTest" time="1.84" />
+  <testcase name="login_title" classname="edu.ucsc.cse118.assignment3.BasicTest" time="0.362" />
+  <testcase name="construction_channel_count" classname="edu.ucsc.cse118.assignment3.BasicTest" time="2.001" />
+  <testcase name="login_password_hint" classname="edu.ucsc.cse118.assignment3.BasicTest" time="0.515" />
+</testsuite>

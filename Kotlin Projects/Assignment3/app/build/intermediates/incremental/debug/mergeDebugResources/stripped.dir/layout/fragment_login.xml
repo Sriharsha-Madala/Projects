@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                  
+                                            
+
+    
+
+                 
+                                
+                                                                        
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="479dp"
+        android:orientation="vertical"
+        android:padding="0dp" android:tag="layout/fragment_login_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" tools:context=".ui.login.LoginFragment">
+
+        <ImageView
+            android:layout_width="318dp"
+            android:layout_height="166dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/margin_between_elements"
+            android:importantForAccessibility="no"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/ic_uc_santa_cruz_banana_slug" />
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/margin_between_elements"
+            android:hint="Email"
+            android:inputType="textEmailAddress"
+            android:minWidth="250dp"
+            android:selectAllOnFocus="true" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/margin_between_elements"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:minWidth="250dp"
+            android:selectAllOnFocus="true" />
+
+        <Button
+            android:id="@+id/login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/margin_between_elements"
+            android:minWidth="250dp"
+            android:tag="binding_1"                         
+            android:text="Login" />
+
+        <TextView
+            android:id="@+id/label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/margin_between_elements"
+            android:minWidth="250dp"
+            android:selectAllOnFocus="true" />
+
+    </LinearLayout>
+         
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent">-->
+
+
+<!--    <Button-->
+<!--        android:id="@+id/LoginB"-->
+<!--        android:layout_width="101dp"-->
+<!--        android:layout_height="60dp"-->
+<!--        android:layout_marginStart="158dp"-->
+<!--        android:layout_marginTop="400dp"-->
+<!--        android:layout_marginEnd="159dp"-->
+<!--        android:text="Login"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.120"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/imageView2"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="361dp"-->
+<!--        app:srcCompat="@drawable/ic_uc_santa_cruz_banana_slug" />-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/email"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center_horizontal"-->
+<!--        android:layout_marginTop="@dimen/margin_between_elements"-->
+<!--        android:hint="Email"-->
+<!--        android:inputType="textEmailAddress"-->
+<!--        android:minWidth="250dp"-->
+<!--        android:selectAllOnFocus="true" />-->
+
+
+<!--    &lt;!&ndash;    <Button&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:id="@+id/LoginB"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:layout_width="wrap_content"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:layout_height="wrap_content"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:layout_marginStart="158dp"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:layout_marginTop="400dp"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:layout_marginEnd="159dp"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:text="Login"&ndash;&gt;-->
+<!--    &lt;!&ndash;        app:layout_constraintEnd_toEndOf="parent"&ndash;&gt;-->
+<!--    &lt;!&ndash;        app:layout_constraintHorizontal_bias="0.117"&ndash;&gt;-->
+<!--    &lt;!&ndash;        app:layout_constraintStart_toStartOf="parent"&ndash;&gt;-->
+<!--    &lt;!&ndash;        app:layout_constraintTop_toTopOf="parent" />&ndash;&gt;-->
+<!--</androidx.cardview.widget.CardView>-->

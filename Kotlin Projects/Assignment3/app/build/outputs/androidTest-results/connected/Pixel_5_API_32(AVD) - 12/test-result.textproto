@@ -1,0 +1,952 @@
+# 2023-04-28T06:55:05.685Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 18
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "login_button_enabled"
+    start_time {
+      seconds: 1682664876
+      nanos: 645000000
+    }
+    end_time {
+      seconds: 1682664879
+      nanos: 155000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-login_button_enabled.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "login_email_hint"
+    start_time {
+      seconds: 1682664879
+      nanos: 169000000
+    }
+    end_time {
+      seconds: 1682664879
+      nanos: 607000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-login_email_hint.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "login_button"
+    start_time {
+      seconds: 1682664879
+      nanos: 608000000
+    }
+    end_time {
+      seconds: 1682664879
+      nanos: 996000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-login_button.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "name_in_header"
+    start_time {
+      seconds: 1682664879
+      nanos: 998000000
+    }
+    end_time {
+      seconds: 1682664882
+      nanos: 104000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-name_in_header.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "workspace_movies"
+    start_time {
+      seconds: 1682664882
+      nanos: 108000000
+    }
+    end_time {
+      seconds: 1682664883
+      nanos: 951000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-workspace_movies.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "workspace_construction"
+    start_time {
+      seconds: 1682664883
+      nanos: 978000000
+    }
+    end_time {
+      seconds: 1682664885
+      nanos: 821000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-workspace_construction.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "movies_channel_count"
+    start_time {
+      seconds: 1682664885
+      nanos: 848000000
+    }
+    end_time {
+      seconds: 1682664887
+      nanos: 900000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-movies_channel_count.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "movies_channel_drama"
+    start_time {
+      seconds: 1682664887
+      nanos: 928000000
+    }
+    end_time {
+      seconds: 1682664890
+      nanos: 116000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-movies_channel_drama.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "construction_channel_framing"
+    start_time {
+      seconds: 1682664890
+      nanos: 144000000
+    }
+    end_time {
+      seconds: 1682664892
+      nanos: 430000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-construction_channel_framing.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "construction_channel_framing_message_ranice"
+    start_time {
+      seconds: 1682664892
+      nanos: 432000000
+    }
+    end_time {
+      seconds: 1682664894
+      nanos: 989000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-construction_channel_framing_message_ranice.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "login_short_email"
+    start_time {
+      seconds: 1682664895
+      nanos: 16000000
+    }
+    end_time {
+      seconds: 1682664896
+      nanos: 148000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-login_short_email.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "login_button_disabled"
+    start_time {
+      seconds: 1682664896
+      nanos: 174000000
+    }
+    end_time {
+      seconds: 1682664896
+      nanos: 588000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-login_button_disabled.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "login_short_password"
+    start_time {
+      seconds: 1682664896
+      nanos: 617000000
+    }
+    end_time {
+      seconds: 1682664898
+      nanos: 40000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-login_short_password.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "construction_channel_framing_message_ranice_date"
+    start_time {
+      seconds: 1682664898
+      nanos: 41000000
+    }
+    end_time {
+      seconds: 1682664900
+      nanos: 554000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-construction_channel_framing_message_ranice_date.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "login_error"
+    start_time {
+      seconds: 1682664900
+      nanos: 581000000
+    }
+    end_time {
+      seconds: 1682664902
+      nanos: 422000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-login_error.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "login_title"
+    start_time {
+      seconds: 1682664902
+      nanos: 449000000
+    }
+    end_time {
+      seconds: 1682664902
+      nanos: 811000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-login_title.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "construction_channel_count"
+    start_time {
+      seconds: 1682664902
+      nanos: 813000000
+    }
+    end_time {
+      seconds: 1682664904
+      nanos: 814000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-construction_channel_count.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "BasicTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "login_password_hint"
+    start_time {
+      seconds: 1682664904
+      nanos: 840000000
+    }
+    end_time {
+      seconds: 1682664905
+      nanos: 356000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\logcat-edu.ucsc.cse118.assignment3.BasicTest-login_password_hint.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\madal\\OneDrive\\Desktop\\CSE 118\\Assignment3\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_32(AVD) - 12\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

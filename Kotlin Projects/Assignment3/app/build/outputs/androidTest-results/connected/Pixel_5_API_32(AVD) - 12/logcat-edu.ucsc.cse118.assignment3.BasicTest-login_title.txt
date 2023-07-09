@@ -1,0 +1,128 @@
+04-27 23:54:59.714 16327 16353 I TestRunner: started: login_title(edu.ucsc.cse118.assignment3.BasicTest)
+04-27 23:54:59.717   593  1078 W InputManager-JNI: Input channel object 'f3f5ac7 Splash Screen edu.ucsc.cse118.assignment3.test (client)' was disposed without first being removed with the input manager!
+04-27 23:54:59.724 16327 16353 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+04-27 23:54:59.733   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3ec000000 0x3ec9a4000]
+04-27 23:54:59.736  1263  1296 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+04-27 23:54:59.736  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():2344
+04-27 23:54:59.739   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f1348000 0x3f1cec000]
+04-27 23:54:59.741   391   447 D goldfish-address-space: claimShared: Ask to claim region [0x3f26b2000 0x3f3056000]
+04-27 23:54:59.744   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f72e8000 0x3f7c8c000]
+04-27 23:54:59.752   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f49a4000]
+04-27 23:54:59.755   391   447 D goldfish-address-space: claimShared: Ask to claim region [0x3f49a4000 0x3f5348000]
+04-27 23:54:59.760  1626  1626 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+04-27 23:54:59.761  1626  1626 I AndroidIME: AbstractIme.onDeactivate():207 PasswordIme.onDeactivate()
+04-27 23:54:59.765  3375  3375 I GsaVoiceInteractionSrv: Handling ACTION_START_HOTWORD
+04-27 23:54:59.765  3375  3375 I GsaVoiceInteractionSrv: disregardVoiceMatch: false
+04-27 23:54:59.765  3375  3375 I GsaVoiceInteractionSrv: Cannot start hotword, hotword has been explicitly disabled.
+04-27 23:54:59.774  1626  1780 D EGL_emulation: app_time_stats: avg=159.88ms min=7.33ms max=811.55ms count=10
+04-27 23:54:59.781  1263 16614 I OpenGLRenderer: Davey! duration=6335ms; Flags=1, FrameTimelineVsyncId=241076, IntendedVsync=125424474377024, Vsync=125424474377024, InputEventId=0, HandleInputStart=125424479511800, AnimationStart=125424479527100, PerformTraversalsStart=125424479548600, DrawStart=125424519997800, FrameDeadline=125424507710356, FrameInterval=125424479502100, FrameStartTime=16666666, SyncQueued=125424521820600, SyncStart=125424522467900, IssueDrawCommandsStart=125424522537500, SwapBuffers=125424523485200, FrameCompleted=125430810755700, DequeueBufferDuration=19400, QueueBufferDuration=3246500, GpuCompleted=125430810755700, SwapBuffersCompleted=125424532626800, DisplayPresentTime=109865148285100,
+04-27 23:54:59.782 14556 14576 I OpenGLRenderer: Davey! duration=10058ms; Flags=1, FrameTimelineVsyncId=240642, IntendedVsync=125420741043840, Vsync=125420741043840, InputEventId=0, HandleInputStart=125420742070900, AnimationStart=125420742086000, PerformTraversalsStart=125420742113000, DrawStart=125420763208000, FrameDeadline=125420774377172, FrameInterval=125420742063000, FrameStartTime=16666666, SyncQueued=125420763455800, SyncStart=125420766886800, IssueDrawCommandsStart=125420767244900, SwapBuffers=125420767330400, FrameCompleted=125430802822600, DequeueBufferDuration=26000, QueueBufferDuration=863100, GpuCompleted=125430802822600, SwapBuffersCompleted=125420772947100, DisplayPresentTime=0,
+04-27 23:54:59.782  1263  1263 D b/223498680: BaseRecentsViewStateController setStateWithAnimation state=Normal, config.skipOverview=true
+04-27 23:54:59.789   933   999 D EGL_emulation: app_time_stats: avg=557.82ms min=18.89ms max=1572.22ms count=3
+04-27 23:54:59.795   933   996 D SplashScreenView: Build android.window.SplashScreenView{8c38ede V.E...... ......ID 0,0-0,0}
+04-27 23:54:59.795   933   996 D SplashScreenView: Icon: view: null drawable: null size: 0
+04-27 23:54:59.795   933   996 D SplashScreenView: Branding: view: android.view.View{e7fa8bf G.ED..... ......I. 0,0-0,0 #10204a9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+04-27 23:54:59.809   593  2511 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.809   593  2511 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.809   593  2511 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.809   593  2511 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.809   593  2511 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.809   593  2511 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.809   593  2511 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.809   593  2511 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.809   593  2511 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.809   593  2511 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.810   593  2511 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.810   593  2511 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.810   593  2511 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.810   593  2511 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.810   593  2511 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.810   593  2511 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.810   593  2511 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.810   593  2511 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.810   593  2511 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.810   593  2511 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.815  1263 16614 I OpenGLRenderer: Davey! duration=6323ms; Flags=0, FrameTimelineVsyncId=241084, IntendedVsync=125424524377022, Vsync=125424524377022, InputEventId=0, HandleInputStart=125424533492100, AnimationStart=125424533512200, PerformTraversalsStart=125424533568400, DrawStart=125424533735100, FrameDeadline=125424574377020, FrameInterval=125424533480500, FrameStartTime=16666666, SyncQueued=125424533809400, SyncStart=125424534279100, IssueDrawCommandsStart=125424534371600, SwapBuffers=125424542099900, FrameCompleted=125430848401600, DequeueBufferDuration=26000, QueueBufferDuration=928900, GpuCompleted=125430848401600, SwapBuffersCompleted=125424543946100, DisplayPresentTime=109865163472700,
+04-27 23:54:59.823   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3ecfd0000 0x3ed974000]
+04-27 23:54:59.832 16327 16327 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@d515baa in: PRE_ON_CREATE
+04-27 23:54:59.832 16327 16327 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+04-27 23:54:59.836   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f09a4000]
+04-27 23:54:59.836   593   603 I system_server: NativeAlloc concurrent copying GC freed 63529(2619KB) AllocSpace objects, 16(352KB) LOS objects, 49% free, 22MB/45MB, paused 1.386ms,77us total 203.462ms
+04-27 23:54:59.840   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f09a4000 0x3f1348000]
+04-27 23:54:59.857   593  2515 W InputManager-JNI: Input channel object '3db1dd5 edu.ucsc.cse118.assignment3.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+04-27 23:54:59.857 16327 16327 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@d515baa in: CREATED
+04-27 23:54:59.857 16327 16327 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@d515baa
+04-27 23:54:59.884 16327 16327 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@d515baa in: STARTED
+04-27 23:54:59.884 16327 16327 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@d515baa
+04-27 23:54:59.885 16327 16327 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@d515baa in: RESUMED
+04-27 23:54:59.885 16327 16327 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@d515baa
+04-27 23:54:59.904  3375  3375 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+04-27 23:54:59.905   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3e8915000 0x3e92b9000]
+04-27 23:54:59.905  3375  3375 E HwDetectorWithState: a: 3
+04-27 23:54:59.913   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f26b2000 0x3f3056000]
+04-27 23:54:59.917   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f3056000 0x3f39fa000]
+04-27 23:54:59.930   593   633 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment3/.MainActivity: +155ms
+04-27 23:54:59.949  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3316
+04-27 23:54:59.950  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2181 checkRepeatedly = false, unlocked = true
+04-27 23:54:59.950  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1989
+04-27 23:54:59.950   593  1724 W InputManager-JNI: Input channel object '4afd4fa Splash Screen edu.ucsc.cse118.assignment3 (client)' was disposed without first being removed with the input manager!
+04-27 23:54:59.952  1626  1626 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2181 checkRepeatedly = true, unlocked = true
+04-27 23:54:59.979 16327 16327 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "CSE118 Assignment 3" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "CSE118 Assignment 3")))
+04-27 23:54:59.986   933   996 D SplashScreenView: Build android.window.SplashScreenView{905e78d V.E...... ......ID 0,0-0,0}
+04-27 23:54:59.986   933   996 D SplashScreenView: Icon: view: null drawable: null size: 0
+04-27 23:54:59.986   933   996 D SplashScreenView: Branding: view: android.view.View{81ebd42 G.ED..... ......I. 0,0-0,0 #10204a9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+04-27 23:54:59.994 16327 16327 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@d515baa in: PAUSED
+04-27 23:54:59.994 16327 16327 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@d515baa
+04-27 23:54:59.997   593  2508 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.997   593  2508 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.997   593  2508 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.997   593  2508 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.997   593  2508 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.997   593  2508 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.997   593  2508 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.998   593  2508 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.998   593  2508 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.998   593  2508 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.998   593  2508 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.998   593  2508 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.998   593  2508 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.998   593  2508 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.998   593  2508 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.998   593  2508 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.998   593  2508 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.999   593  2508 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+04-27 23:54:59.999   593  2508 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.000   593  2508 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.014   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3ec000000 0x3ec9a4000]
+04-27 23:55:00.020   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3ecfd0000 0x3ed974000]
+04-27 23:55:00.022   391   447 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f09a4000]
+04-27 23:55:00.028   391   447 D goldfish-address-space: claimShared: Ask to claim region [0x3e92b9000 0x3e98e5000]
+04-27 23:55:00.050   391   447 D goldfish-address-space: claimShared: Ask to claim region [0x3f09a4000 0x3f1348000]
+04-27 23:55:00.054   391   447 D goldfish-address-space: claimShared: Ask to claim region [0x3f1348000 0x3f1cec000]
+04-27 23:55:00.055   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f72e8000 0x3f7c8c000]
+04-27 23:55:00.066   391   446 D goldfish-address-space: claimShared: Ask to claim region [0x3f26b2000 0x3f2cde000]
+04-27 23:55:00.067 16327 16327 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@d515baa in: STOPPED
+04-27 23:55:00.068 16327 16327 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@d515baa
+04-27 23:55:00.079   593  1078 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.079   593  1078 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.079   593  1078 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.079   593  1078 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.079   593  1078 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.079   593  1078 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.079   593  1078 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.079   593  1078 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.079   593  1078 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.079   593  1078 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.080   593  1078 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.080   593  1078 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.081   593  1078 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.081   593  1078 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.081   593  1078 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.081   593  1078 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.081   593  1078 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.081   593  1078 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.083   593  1078 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.083   593  1078 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+04-27 23:55:00.087 16327 16327 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@d515baa in: DESTROYED
+04-27 23:55:00.087 16327 16327 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+04-27 23:55:00.087 16327 16353 I TestRunner: finished: login_title(edu.ucsc.cse118.assignment3.BasicTest)
