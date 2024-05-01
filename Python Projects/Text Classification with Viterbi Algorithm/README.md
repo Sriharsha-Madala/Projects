@@ -1,4 +1,4 @@
-# CSE 143 Assignment 3
+# Text Classification with Viterbi Algorithm
 ##README
 Ojas Upadhye, Sriharsha Maddala, Tanay Khajanchi, Sean Fujiwara
 Spring 2023
